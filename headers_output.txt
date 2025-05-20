@@ -1,0 +1,13 @@
+Arterial_diastolic_pressure
+Arterial_systolic_pressure
+DCID
+ETCO2
+Mean_arterial_pressure
+No_revenue_generating_compression
+Non_invasive_diastolic_blood_pressure
+PULSE
+ST-I
+SpO2
+TIMESTAMP
+breathe
+heart_rate
